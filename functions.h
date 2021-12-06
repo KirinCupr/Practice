@@ -1,0 +1,11 @@
+#ifndef PRACTICE_FUNCTIONS_H
+#define PRACTICE_FUNCTIONS_H
+#include "Enter_from_keyboard.h"
+#include "Data_output_to_screen.h"
+#include "Printout_on_request.h"
+#include "Add_note.h"
+#include "return_to_menu.h"
+#include "change_note.h"
+#include "delete_note.h"
+#include "sorting.h"
+#endif //PRACTICE_FUNCTIONS_H
